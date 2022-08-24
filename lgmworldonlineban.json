@@ -1,0 +1,12 @@
+[
+  {
+    "username": "badUser1",
+    "reason": "bye bye!",
+    "id": 1
+  },
+  {
+    "username": "badUser2",
+    "reason": "Don't Cheat!",
+    "id": 2
+  }
+]
