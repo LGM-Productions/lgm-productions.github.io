@@ -1,1 +1,13 @@
- {% include index.html %}
+inherit_gem:
+  rubocop-github:
+    - config/default.yml
+
+AllCops:
+  Exclude:
+    - _site/**/*
+    - vendor/**/*
+
+Layout/LineLength:
+  Enabled: false
+ 
+{% include index.html %}
