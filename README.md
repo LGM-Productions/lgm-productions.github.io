@@ -1,4 +1,9 @@
 # LGM Productions
+
+⚠️ This website is currently under construction. ⚠️
+Why? I need to update most of the content displayed here. 
+This may take a while.
+
 [lgm-productions.github.io](https://lgm-productions.github.io)
 ## Welcome to the LGM Productions website!
 This is the official place to host webpages that were created by me.
